@@ -1,0 +1,42 @@
+.livros {
+    background-color: rgb(144, 212, 189);
+    margin: 100px 50px 50px 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 30px;
+}
+
+.livros img {
+    border-radius: 12px;
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.livros h3 {
+    color: rgb(4, 110, 110);
+    margin-bottom: 20px;
+}
+
+.livros p {
+    font-size: 15px;
+    text-align: justify;
+    margin: 30px 270px;
+}
+
+.livros table {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.livros th {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(11, 93, 93);
+}
+
+.livros td {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+}

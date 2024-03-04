@@ -1,0 +1,45 @@
+.topo {
+    background-color: rgb(37, 162, 164);
+    color: white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 0 50px;
+    text-align: center;
+    padding: 30px 0;
+    
+}
+
+.topo h1 {
+    font-size: 60px;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.topo h2 {
+    text-shadow: 1px 1px 1px gray;
+
+}
+
+.topo h1, h2 {
+    color: rgb(29, 113, 119);
+}
+
+.topo p, ol li a {
+    color: bisque;
+}
+
+.topo h1, h2, p {
+    margin-bottom: 18px;
+}
+
+.topo ol li {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.topo a {
+    text-decoration: underline;
+}
+
+.topo a:checked {
+    color: aquamarine;
+}
